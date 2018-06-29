@@ -1,0 +1,26 @@
+INFO:root:starting othFilter....
+ERROR:root:cannot identify image file './Products/Electronics/Home Appliances/5078.jpg'
+INFO:root:./Products/Electronics/Home Appliances/5078.jpg
+ERROR:root:cannot identify image file './Products/Electronics/Home Appliances/5077.jpg'
+INFO:root:./Products/Electronics/Home Appliances/5077.jpg
+ERROR:root:cannot identify image file './Products/Fresh & Bakery/Fresh Chicken & Eggs/1570.jpg'
+INFO:root:./Products/Fresh & Bakery/Fresh Chicken & Eggs/1570.jpg
+ERROR:root:cannot write mode P as JPEG
+INFO:root:./Products/Beverage/Confectionery/2707.jpg
+ERROR:root:cannot write mode P as JPEG
+INFO:root:./Products/Beverage/Confectionery/2710.jpg
+ERROR:root:cannot write mode P as JPEG
+INFO:root:./Products/Beverage/Confectionery/2787.jpg
+ERROR:root:cannot write mode P as JPEG
+INFO:root:./Products/Beverage/Confectionery/2567.jpg
+ERROR:root:cannot write mode P as JPEG
+INFO:root:./Products/Grocery/Canned Foods/862.jpg
+ERROR:root:cannot write mode P as JPEG
+INFO:root:./Products/Grocery/Sauces & Tomato Paste/1387.jpg
+ERROR:root:cannot identify image file './Products/Grocery/Sauces & Tomato Paste/1394.jpg'
+INFO:root:./Products/Grocery/Sauces & Tomato Paste/1394.jpg
+ERROR:root:cannot identify image file './Products/Grocery/Pasta, Noodles &Soup/1500.jpg'
+INFO:root:./Products/Grocery/Pasta, Noodles &Soup/1500.jpg
+INFO:root:starting othFilter....
+INFO:root:starting othFilter....
+INFO:root:starting othFilter....
